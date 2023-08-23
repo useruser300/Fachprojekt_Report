@@ -6,4 +6,4 @@ Die zugehörigen Experimente, Quellcode und Daten können in den folgenden Repos
 
 -[Projekt 1](https://github.com/ziadat69/Routingalgo_G3)
 - [Projekt 2](https://github.com/ziadat69/fachpro2)
-- [newrepo 3](https://github.com/useruser300/Fachprojekt-Routingalgorithmen)
+- [Modifizierete Fachprojekt-Routingalgorithmen Projekt 1&2 ](https://github.com/useruser300/Fachprojekt-Routingalgorithmen)
